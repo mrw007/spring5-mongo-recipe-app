@@ -12,6 +12,10 @@ buildscript {
     }
 }
 
+plugins {
+    id "com.sourcemuse.mongo" version "2.0.0"
+}
+
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'org.springframework.boot'
@@ -62,4 +66,9 @@ jacocoTestReport {
         xml.enabled true
         html.enabled false
     }
+}
+
+mongo {
+    port 8000
+    logging 'console'
 }
