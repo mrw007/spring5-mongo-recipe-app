@@ -1,8 +1,9 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mongo-recipe-app)
-
-[![codecov](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app)
 
 # spring5-mongo-recipe-app
+
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/mrw007/spring5-mongo-recipe-app/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/mrw007/spring5-mongo-recipe-app/tree/master)
+[![codecov](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/springframeworkguru/spring5-mongo-recipe-app)
+
 Recipe Application Using MongoDB
 
 This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
