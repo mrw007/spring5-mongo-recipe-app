@@ -43,3 +43,4 @@ build/
 ### Plugin de versionamento do Maven
 /pom.xml.releaseBackup
 /release.properties
+/.gradle/
