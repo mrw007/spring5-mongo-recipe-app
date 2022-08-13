@@ -20,6 +20,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
  * Created by jt on 6/21/17.
  */
 
+@Disabled
 @ExtendWith(SpringExtension.class)
 @SpringBootTest
 public class RecipeServiceIT {
